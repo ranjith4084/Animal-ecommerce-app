@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Pranikal App',
+      title: 'PET CARE APP',
       theme: theme(),
       // We use routeName so that we dont need to remember the name
       initialRoute: SplashScreen.routeName,
