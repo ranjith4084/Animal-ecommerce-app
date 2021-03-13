@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 
 class CATEGORIES extends StatelessWidget {
   String pictureId;
@@ -18,3 +18,4 @@ class CATEGORIES extends StatelessWidget {
 
   CATEGORIES(this.name, this.pictureId);
 }
+*/

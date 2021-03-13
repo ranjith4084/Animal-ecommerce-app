@@ -1,4 +1,4 @@
-import 'package:http/http.dart' as http;
+/*import 'package:http/http.dart' as http;
 import 'categorie_auto_genarated_model.dart';
 
 var fulldata;
@@ -23,3 +23,4 @@ class ApiService {
 }
 
 final $apiService = ApiService();
+*/
