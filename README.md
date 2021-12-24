@@ -38,7 +38,11 @@ In this our complete e-commerce app is developed, we show you how you can create
 Now it contains all the screen, thanks for your love and support 🙏 
 
 ## Photos
-<img src="https://user-images.githubusercontent.com/80382586/110694584-cc14cb80-820e-11eb-9fd2-af55325d17ca.png" width="500" height="900">
+
+
+<img src="https://user-images.githubusercontent.com/80382586/147370789-b0e58287-0320-4aac-9f0d-85dff5ee9fbb.png" width="1300" height="800">
+
+<!-- <img src="https://user-images.githubusercontent.com/80382586/110694584-cc14cb80-820e-11eb-9fd2-af55325d17ca.png" width="500" height="900">
 <img src="https://user-images.githubusercontent.com/80382586/110694590-cdde8f00-820e-11eb-9131-c304f30e1714.png" width="500" height="900">
 <img src="https://user-images.githubusercontent.com/80382586/110694576-c919db00-820e-11eb-8539-c68a2b2d6dd7.png" width="500" height="900">
 <img src="https://user-images.githubusercontent.com/80382586/110694759-0aaa8600-820f-11eb-9bac-b02b536b684e.png" width="500" height="900">
@@ -46,4 +50,4 @@ Now it contains all the screen, thanks for your love and support 🙏
 <img src="https://user-images.githubusercontent.com/80382586/110694740-04b4a500-820f-11eb-8db2-e2209b8910a9.png" width="500" height="900">
 <img src="https://user-images.githubusercontent.com/80382586/110694767-0c744980-820f-11eb-9188-1579e42cedb8.png" width="500" height="900">
 <img src="https://user-images.githubusercontent.com/80382586/110694787-14cc8480-820f-11eb-9d4c-a4b4682e3102.png" width="500" height="900">
-<img src="https://user-images.githubusercontent.com/80382586/110694874-375e9d80-820f-11eb-8745-55670ab6a25e.png" width="500" height="900">
+<img src="https://user-images.githubusercontent.com/80382586/110694874-375e9d80-820f-11eb-8745-55670ab6a25e.png" width="500" height="900"> -->
